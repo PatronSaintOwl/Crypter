@@ -21,7 +21,7 @@
     "electron-util": "^0.14.2",
     "estraverse": "5.1.0",
     "fs-extra": "9.0.1",
-    "handlebars": "4.7.6",
+    "handlebars": "4.7.7",
     "jquery": "3.5.1",
     "jquery.marquee": "1.5.0",
     "keytar": "^6.0.1",
